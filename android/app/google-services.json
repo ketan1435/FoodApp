@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "796037039811",
+    "project_id": "foodapp-3301e",
+    "storage_bucket": "foodapp-3301e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:796037039811:android:34f4a811fc8612fd030476",
+        "android_client_info": {
+          "package_name": "com.ketan.food_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDtSzy-cBhtDm3HNVtz5pE1zGXMziMN6a0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
